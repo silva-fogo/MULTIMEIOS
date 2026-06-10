@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781097052242,
+      "tag": "0000_optimal_moondragon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781097218321,
+      "tag": "0001_whole_blockbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781103912871,
+      "tag": "0002_adorable_zuras",
+      "breakpoints": true
+    }
+  ]
+}
